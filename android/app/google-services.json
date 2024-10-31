@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "410319460291",
+    "project_id": "omarcompany-cc20a",
+    "storage_bucket": "omarcompany-cc20a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410319460291:android:5f20564f8c92e170400f76",
+        "android_client_info": {
+          "package_name": "com.example.omar_company"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv__7jtaU0kGg1VypXs3PAvsojKJ483aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410319460291:android:c3ffe7abcbd71f65400f76",
+        "android_client_info": {
+          "package_name": "com.example.source_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv__7jtaU0kGg1VypXs3PAvsojKJ483aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
